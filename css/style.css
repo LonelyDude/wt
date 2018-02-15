@@ -1,5 +1,7 @@
 body{
  font-family: 'Open Sans', sans-serif;
+ 	height: 100%;
+	width: 100%
    font-size: 100%;
 	background: url(../images/jackass.jpg);
 	background-size: cover;
@@ -17,5 +19,5 @@ body{
 	font-size: 20px;
 	font-weight: 600;
 	color: black;
-    padding: 0px 450px;
+    padding: 0px 200px;
 }
